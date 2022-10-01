@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning JavaScript.
 
-📫 How to reach me Discord : Poisskail#6460
+📫 How to reach me Discord : StormDev#7928
 
 Connect with me:
 StormDev#7928
