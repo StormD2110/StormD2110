@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Discord StormDev#7928**
 
-- 📄 Worked with [Dark AntiCheat (My own project.) Currently CEO at CypherAC](Dark AntiCheat (My own project.) Currently CEO at CypherAC)
+- 📄 Worked with [Dark AntiCheat (My own project.) Currently CEO at CypherAC
 
 - ⚡ Fun fact **Im funny :)**
 
