@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Storm</h1>
 <h3 align="center">A passionate frontend developer from Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stormd2110&label=Profile%20views&color=0e75b6&style=flat" alt="stormd2110" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormd2110" alt="stormd2110" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [CypherAC](https://cypher-ac.xyz/)
 
 - 🌱 I’m currently learning **JavaScript Lua PHP.**
@@ -23,7 +17,7 @@
 
 - 📫 How to reach me **Discord StormDev#7928**
 
-- 📄 Worked with [Dark AntiCheat (My own project.) Currently CEO at CypherAC
+- 📄 Worked with [Dark AntiCheat (My own project.) Currently CEO at CypherAC](Dark AntiCheat (My own project.) Currently CEO at CypherAC)
 
 - ⚡ Fun fact **Im funny :)**
 
@@ -37,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormd2110&show_icons=true&locale=en&layout=compact" alt="stormd2110" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormd2110&show_icons=true&locale=en" alt="stormd2110" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormd2110&" alt="stormd2110" /></p>
